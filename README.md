@@ -1,4 +1,4 @@
-# DDAS — Download Deduplication Alert System
+# DDAS — Data ownload Duplication Alert System
 
 DDAS is a cross-platform-oriented prototype for detecting exact duplicate files using streaming SHA-256 hashes and a transactional SQLite index.
 
